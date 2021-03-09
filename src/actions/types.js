@@ -1,0 +1,68 @@
+export const ADD_USER = 'ADD_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const FETCH_USER = 'FETCH_USER';
+export const USER_SELECTED = 'USER_SELECTED';
+export const DEPOSIT_ACCOUNT = 'USER_SELECTED';
+export const UPDATE_USER = 'UPDATE_USER';
+export const UPDATE_PASSWORD = 'UPDATE_PASSWORD';
+export const ERROR_PASSWORD='ERROR_PASSWORD';
+
+export const FETCH_TRIP = 'FETCH_TRIP';
+export const ADD_TRIP = 'ADD_TRIP';
+export const EXTEND_TRIP = 'EXTEND_TRIP';
+export const COMPLETE_TRIP = 'COMPLETE_TRIP';
+export const ERROR_TRIP = 'ERROR_TRIP';
+
+export const FETCH_TRACK_COORDINATES = 'FETCH_TRACK_COORDINATES';
+
+export const SEND_COMMAND_BU = 'SEND_COMMAND_BU';
+export const FETCH_ONBOARD_DEVICE = 'FETCH_ONBOARD_DEVICE';
+
+export const FETCH_COMMAND = 'FETCH_COMMAND';
+export const ADD_CHARIOT_COMMAND = 'ADD_CHARIOT_COMMAND';
+
+export const FETCH_CHARIOT_COMMAND = 'FETCH_CHARIOT_COMMAND';
+
+export const FETCH_STATION_MET = 'FETCH_STATION_MET';
+export const FETCH_SELECT_STATION_MET = 'FETCH_SELECT_STATION_MET';
+
+
+export const FETCH_MET_COORDINATES = 'FETCH_MET_COORDINATES';
+
+export const FETCH_CHARIOT_RENT_INFO = 'FETCH_CHARIOT_RENT_INFO';
+
+export const FETCH_TARIF = 'FETCH_TARIF';
+export const ADD_TARIF = 'ADD_TARIF';
+export const FETCH_TARIF_TYPE = 'FETCH_TARIF_TYPE';
+export const FETCH_MET_TYPE = 'FETCH_MET_TYPE';
+
+export const EDIT_TARIF = 'EDIT_TARIF';
+export const UPDATE_TARIF = 'UPDATE_TARIF';
+export const DELETE_TARIF = 'DELETE_TARIF';
+
+export const FETCH_DEVICE_MODE = 'FETCH_DEVICE_MODE';
+
+export const FETCH_TRANSACTION = 'FETCH_TRANSACTION';
+
+export const FETCH_ACTUAL_TARIF = 'FETCH_ACTUAL_TARIF';
+
+export const USER_LOGGED_OUT = 'USER_LOGGED_OUT';
+
+export const LANGUAGE = 'LANGUAGE';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
